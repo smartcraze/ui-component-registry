@@ -13,5 +13,20 @@
     ],
     "author": "suraj vishwkarma <smartcraze354@email.com>",
     "title": "Bento Grid"
+  },
+  "footer": {
+    "name": "footer",
+    "type": "registry:ui",
+    "dependencies": ["framer-motion"],
+    "files": [
+      {
+        "path": "components/ui/footer.tsx",
+        "url": "https://raw.githubusercontent.com/smartcraze/ui-component-registry/main/components/ui/footer.tsx",
+        "type": "registry:ui",
+        "target": "components/ui/footer.tsx"
+      }
+    ],
+    "author": "suraj vishwkarma <smartcraze354@email.com>",
+    "title": "Footer"
   }
 }
