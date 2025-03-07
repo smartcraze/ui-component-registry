@@ -1,0 +1,17 @@
+{
+  "bento-grid": {
+    "name": "bento-grid",
+    "type": "registry:ui",
+    "dependencies": ["@tabler/icons-react"],
+    "files": [
+      {
+        "path": "components/ui/bento-grid.tsx",
+        "url": "https://raw.githubusercontent.com/smartcraze/ui-component-registry/main/components/ui/bento-grid.tsx",
+        "type": "registry:ui",
+        "target": "components/ui/bento-grid.tsx"
+      }
+    ],
+    "author": "suraj vishwkarma <smartcraze354@email.com>",
+    "title": "Bento Grid"
+  }
+}
